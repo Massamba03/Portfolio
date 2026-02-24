@@ -184,3 +184,6 @@ form{
     border-radius: 10px;
     border: lightgray 2px s;
 }
+.text p{
+    color: orange;
+}
