@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../Semestre 1 L1GL/exo_html/test.html"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Portfolio"
+	}
+}
